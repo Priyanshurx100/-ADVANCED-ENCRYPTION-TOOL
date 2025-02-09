@@ -35,6 +35,17 @@ Welcome to the File Encryption and Decryption Tool, a robust application designe
 
 #INSTALLATION : 
 
+libraries needed
+import Cipher, algorithms, modes
+import hashes
+import PBKDF2HMAC
+import default_backend
+import os
+import tkinter as tk
+import filedialog, messagebox, ttk
+import ThemedTk
+import ScrolledText
+
 To get started with the File Encryption and Decryption Tool, follow these steps:
 
 1.Clone the repository
