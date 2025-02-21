@@ -1,18 +1,5 @@
 # -ADVANCED-ENCRYPTION-TOOL
 
-
-**COMPANY** : CODTECH IT SOLUTIONS
-
-**NAME** : PRIYANSHU RAIKWAR
-
-**INTERN ID** : CT08LFM
-
-**DOMAIN** : CYBER SECURITY AND ETHICAL HACKING
-
-**BATCH DURATION** : JANUARARY 10TH , 2025 TO FEBRAUARY 10TH, 2025
-
-**MENTOR NAME** : SRAVANI
-
 **DESCRIPTION : 
 
 Welcome to the File Encryption and Decryption Tool, a robust application designed to secure your sensitive files using advanced encryption algorithms, specifically AES-256. This tool provides a user-friendly interface that allows users to easily encrypt and decrypt files, ensuring that your data remains safe from unauthorized access.
